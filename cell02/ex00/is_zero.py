@@ -1,4 +1,4 @@
-value = int(input())
+value = int(input("Enter a number: "))
 if value == 0:
     print ("this number is equal to zero")
 else:
